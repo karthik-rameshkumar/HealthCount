@@ -1,4 +1,4 @@
 HealthCount
 ===========
 
-Repository for hack for health webpages
+Repository for CountDown page of Hask for Health
