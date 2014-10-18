@@ -293,7 +293,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #2a6496;
+  color: #7f7f7f;
   text-decoration: underline;
 }
 a:focus {
@@ -502,7 +502,7 @@ cite {
   color: #999;
 }
 .text-primary {
-  color: #428bca;
+  color: #7f7f7f;
 }
 a.text-primary:hover {
   color: #3071a9;

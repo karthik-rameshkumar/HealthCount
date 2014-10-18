@@ -48,7 +48,7 @@ a:hover, a:focus {
 HEADER
 *******************************************************************************************************************************/
 #header .container{
-    color: #FFF;
+    color: #7f7f7f;
     text-align: center;
     position: relative;
     z-index: 2;
@@ -61,14 +61,14 @@ HEADER
     text-align: center;
     width: 130px;
     border-radius: 50%;
-    border: 4px solid rgba(255, 255, 255, .6);
+    border: 4px solid #7f7f7f;
 }
 .timer_box h1{
     font-size: 48px;
     margin-top: 5px;
     margin-bottom: 0px;
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-    color: white;
+    color: #7f7f7f;
 }
 .timer_box p{ margin-top: 0px;}
 #layer{
@@ -647,7 +647,7 @@ PLUGINS
   font-family: Entypo;
   font-size: 35px;
   text-align: center;
-  color: #bbb;
+  color: #7f7f7f;
   border-radius: 50%;
   background: #eee;
   overflow: hidden;
