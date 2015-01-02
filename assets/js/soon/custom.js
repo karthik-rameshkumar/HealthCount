@@ -6,7 +6,7 @@ COMMING SOON PAGE
     * Set your date here  (YEAR, MONTH (0 for January/11 for December), DAY, HOUR, MINUTE, SECOND)
     * according to the GMT+0 Timezone
     **/
-    var launch = new Date(2014, 0, 3, 09, 00);
+    var launch = new Date(2014, 0, 11, 09, 00, 00);
     /**
     * The script
     **/
